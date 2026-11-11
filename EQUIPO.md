@@ -1,0 +1,8 @@
+# Recetario - Guía 2 (trabajo individual)
+ 
+Trabajo individual de Adriana Milenka Torrico Cardoso.
+Las revisoras externas aprueban los Pull Requests.
+ 
+## Integrantes
+ 
+- Adriana Milenka Torrico Cardoso
