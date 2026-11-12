@@ -6,3 +6,4 @@ Las revisoras externas aprueban los Pull Requests.
 ## Integrantes
  
 - Adriana Milenka Torrico Cardoso
+- Apoyo Marian Zamorano (rama dev/apoyo-marian-zamorano) - revisora externa
